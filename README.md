@@ -1,2 +1,2 @@
 # odoo-xls-report-template
-Create XLS Report Using Odoo
+Create XLS Report Using Odoo (OpenERP)
